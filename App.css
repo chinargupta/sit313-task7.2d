@@ -1,0 +1,10 @@
+.App h1{
+  margin: 10px;
+  background-color: grey;
+  }
+  .App{
+    font-weight: bolder;
+  }
+  .ArticleForm{
+   text-align: right;
+  }
